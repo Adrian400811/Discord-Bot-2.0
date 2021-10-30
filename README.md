@@ -22,3 +22,13 @@
 #### forecast ```forecast <location>```
 ##### Get weather forecast of specific location from open weather map. Default as Hong Kong if no location specified.
 ###### Data includes description, hightest temperature and lowest temperature.
+
+## Dependencies (Can be automatically installed by install.sh /.bat)
+#### py-cord
+#### psutil
+#### datetime
+#### requests
+#### pyqrcode
+#### tasks
+#### mcstatus
+#### pypng
