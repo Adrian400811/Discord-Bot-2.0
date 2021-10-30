@@ -1,0 +1,8 @@
+psutil
+datetime
+requests
+pyqrcode
+tasks
+py-cord
+mcstatus
+pypng
